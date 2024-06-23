@@ -9,9 +9,10 @@ import 'swiper/css/navigation';
 
 import { EffectCoverflow, Pagination, Navigation } from 'swiper/modules';
 
-import slide_image_1 from '../assets/hero-image.jpg';
-import slide_image_2 from '../assets/img1.jpg';
-import slide_image_3 from '../assets/img2.jpg';
+import slide_image_1 from '../assets/celebrant1.PNG';
+import slide_image_2 from '../assets/celebrant2.PNG';
+import slide_image_3 from '../assets/celebrant3.PNG';
+import slide_image_4 from '../assets/celebrant4.PNG';
 import { GoArrowLeft, GoArrowRight } from "react-icons/go";
 
 
@@ -28,7 +29,7 @@ const Gallery = () => {
          </div>
 
 
-         <div className='flex justify-center w-full mt-16 z-20 md:mt-20 xl:mt-28'>
+         <div className='flex justify-center w-full mt-16 z-10 md:mt-20 xl:mt-28'>
          <Swiper
          effect={'coverflow'}
          grabCursor={true}
@@ -51,25 +52,16 @@ const Gallery = () => {
          className="swiper_container"
        >
          <SwiperSlide>
-           <img src={slide_image_1} alt="slide_image" />
+           <img src={slide_image_2} alt="slide_image" />
          </SwiperSlide>
          <SwiperSlide>
-           <img src={slide_image_2} alt="slide_image" />
+           <img src={slide_image_4} alt="slide_image" />
          </SwiperSlide>
          <SwiperSlide>
            <img src={slide_image_3} alt="slide_image" />
          </SwiperSlide>
          <SwiperSlide>
-           <img src={slide_image_1} alt="slide_image" />
-         </SwiperSlide>
-         <SwiperSlide>
-           <img src={slide_image_2} alt="slide_image" />
-         </SwiperSlide>
-         <SwiperSlide>
-           <img src={slide_image_3} alt="slide_image" />
-         </SwiperSlide>
-         <SwiperSlide>
-           <img src={slide_image_1} alt="slide_image" />
+           <img src={slide_image_4} alt="slide_image" />
          </SwiperSlide>
  
          {/*<div className="slider-controler">

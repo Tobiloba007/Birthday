@@ -47,7 +47,9 @@ const Home = ({children}) => {
            className="hidden md:flex fixed bottom-0 right-7 lg:right-12 xl:right-16 flex-col items-center justify-end z-30">
             <a href="mailto:Olaniyanmichael0@gmail.com?subject=" target="_blank" rel="noreferrer"
             className="my-mail text-[12px] text-[#C4C4C4] text-center tracking-[0.5em] origin-center rotate-180 xl:text-[12px]"
-               >DAMILOLA</a>
+               >
+                  DAMILOLA
+               </a>
                  <hr className="border-[#C4C4C4] border-[0.01em] h-20 mt-2 xl:h-24 xl:mt-5" />
            </motion.div>
 

@@ -8,12 +8,18 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="w-full h-full bg-[#000000] font-poppins max-w-screen-2xl mx-auto">
+    <div className="relative w-full h-full bg-[#000000] font-poppins max-w-screen-2xl mx-auto">
        <Home>
            <Navbar />
-           <Intro />
-           <Gallery />
-           <Wishes />
+           <div id="home">
+              <Intro />
+           </div>
+           <div id="gallery">
+              <Gallery />
+           </div>
+           <div id="wishes">
+              <Wishes />
+           </div>
            <Footer />
        </Home>
     </div>
