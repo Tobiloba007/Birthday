@@ -45,7 +45,7 @@ const Wishes = () => {
     ]
 
   return (
-    <div className='relative flex flex-col items-center w-full bg-[#000000] my-20 py-12 px-8 md:px-14 lg:px-24 xl:px-52'>
+    <div className='relative flex flex-col items-center w-full bg-[#000000] my-10 py-12 px-8 md:px-14 lg:px-24 xl:px-52'>
         <div className='flex items-center justify-start w-full'>
             <GiMagicLamp className='text-white mr-2 text-lg md:mr-3 lg:text-xl xl:text-2xl xl:mr-4' />
             <p className="text-[16px] text-[#6FC400] font-[400] md:text-[17px] xl:text-[20px]">
