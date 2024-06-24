@@ -7,6 +7,7 @@ import Hilda from '../assets/hilda.PNG'
 import Loretta from '../assets/loretta.PNG' 
 import Praise from '../assets/praise.PNG' 
 import Oladunni from '../assets/oladunni.JPG' 
+import Damilola from '../assets/damilola.JPG' 
 import Adeola from '../assets/adeola.JPG' 
 import Christy from '../assets/christy.JPG' 
 import Ibrahim from '../assets/ibrahim.JPG' 
@@ -71,48 +72,55 @@ const Wishes = () => {
         },
         {
           id: 8,
+          name: 'Damilola',
+          img: Damilola,
+          title: 'Graphics Designer',
+          message: "Happy Birthday, Dami! Wishing you a day filled with joy, laughter, and all the things you love most. Cheers to another fantastic year ahead!"
+        },
+        {
+          id: 9,
           name: 'Christiana',
           img: Christy,
           title: 'Personal Asst.',
           message: "Happy birthday darling Do have a beautiful and fulfilling year ahead . Cheers"
         },
         {
-          id: 9,
+          id: 10,
           name: 'Ibrahim',
           img: Ibrahim,
           title: 'Software Engineer',
           message: "Happy Birthday, Dami! Wishing you a wonderful day filled with joy and celebration. Your diligence and dedication at work are truly inspiring, and it's a pleasure to have you as a colleague. May you enjoy a long life filled with prosperity and happiness. Here's to many more years of success and fulfillment!"
         },
         {
-          id: 10,
+          id: 11,
           name: 'NNAMDI',
           img: Nnamdi,
           title: 'Software Engineer',
           message: "Happy Birthday, Damilola. Your dedication and positive attitude to work is inspiring. I wish you all the joy and success in the world. May this year bring you happiness, good health, and all the wonderful things you deserve. Have a great year."
         },
         {
-          id: 11,
+          id: 12,
           name: 'Michael',
           img: Michael,
           title: 'Software Engineer',
           message: "Happy birthday to an amazing colleague and an even more incredible person! Wishing you a day filled with joy and a year full of successes."
         },
         {
-          id: 12,
+          id: 13,
           name: 'Ayomipo',
           img: Ayomipo,
           title: 'Software Engineer',
           message: "Happy birthday to the sunshine of our office, Damilola! Wishing you a day as sparkling as your personality and filled with laughter and delicious cake!"
         },
         {
-          id: 13,
+          id: 14,
           name: 'Moshood',
           img: Moshood,
           title: 'Project Manager',
           message: "Happy Birthday to an amazing colleague and friend! Wishing you a day filled with love, laughter, and all of your favorite things. May this new year bring you endless joy, success, and adventures. You deserve it all my proper corporate baddie!! Cheers to another year of creating memories together! Idolo"
         },
         {
-          id: 14,
+          id: 15,
           name: 'Keem',
           img: Keem,
           title: 'Videographer',
