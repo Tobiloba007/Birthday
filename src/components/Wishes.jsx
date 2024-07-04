@@ -26,7 +26,7 @@ const Wishes = () => {
           name: 'Michelle Akinmade',
           img: HR,
           title: 'Human Resource Manager',
-          message: "Happy birthday to an extraordinary lady Damilola. I wish you a year filled with blessings and favour. Thank you for being amazing"
+          message: "Ayo, the talkative! 😂. With your curiosity, one would think you have a career in law. As you embark on this new chapter, I wish you all the best. May your passion for work continue to serve you well. You will be missed in our office, but I'm excited to see the impact you'll make! Keep shining, Ayo!"
         },
         {
           id: 2,
