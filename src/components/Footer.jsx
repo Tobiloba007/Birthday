@@ -12,7 +12,8 @@ const Footer = () => {
              </i>
 
              <i className='text-[10px] mt-5 md:text-[11px] text-[#6FC400] xl:text-sm'>
-                  HAVE FUN ! 💃🏻
+                  {/*HAVE FUN ! 💃🏻*/}
+                  TO GREATER HEIGHTS !! 🍻
              </i>
         </div>
 

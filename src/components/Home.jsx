@@ -48,7 +48,7 @@ const Home = ({children}) => {
             <a href="mailto:Olaniyanmichael0@gmail.com?subject=" target="_blank" rel="noreferrer"
             className="my-mail text-[12px] text-[#C4C4C4] text-center tracking-[0.5em] origin-center rotate-180 xl:text-[12px]"
                >
-                  DAMILOLA
+                  AYOMIPO
                </a>
                  <hr className="border-[#C4C4C4] border-[0.01em] h-20 mt-2 xl:h-24 xl:mt-5" />
            </motion.div>

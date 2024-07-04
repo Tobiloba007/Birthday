@@ -12,11 +12,12 @@ const Intro = () => {
 
         <div className="flex flex-col items-start justify-center w-full lg:w-[55%]">
              <p className="text-[15px] text-[#C4C4C4] font-[400] md:text-[17px] xl:text-[20px]">
-                 Happy Birthday
+                 {/*Happy Birthday*/}
+                 To Greater Heights
              </p>
              <h1 className="text-[33px] font-[800] tracking-wider mb-1 pt-[3px] bg-gradient-to-r from-[#6FC400] to-[#ffffff] text-transparent bg-clip-text
              md:text-[43px] lg:text-[45px] xl:text-[53px]">
-                 DAMILOLA
+                 AYOMIPO
              </h1>
              <p className="text-[12px] font-normal leading-5 text-[#C4C4C4] w-[90%] md:text-[14px] md:leading-6 md:w-[60%] lg:text-[14px] lg:w-[100%] xl:text-[16px] 
                            xl:leading-8">

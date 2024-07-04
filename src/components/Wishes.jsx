@@ -1,7 +1,7 @@
 import React from 'react'
-import img1 from '../assets/img1.jpg'
 import { GiMagicLamp } from "react-icons/gi";
 import HR from '../assets/hr.PNG' 
+import DamiCSR from '../assets/DamiCSR.jpeg' 
 import Rukayat from '../assets/rukayat.JPG' 
 import Hilda from '../assets/hilda.PNG' 
 import Loretta from '../assets/loretta.PNG' 
@@ -30,102 +30,102 @@ const Wishes = () => {
         },
         {
           id: 2,
-          name: 'Rukayat',
-          img: Rukayat,
+          name: 'Damilola',
+          img: DamiCSR,
           title: 'Customer Service Rep.',
-          message: "Hey Lola, you're such a kind and wonderful person, and there's so much about you that I love. I believe in you and I know you have the potential to do even better. I just want the best for you, my dear. Thank you for being an amazing colleague at work"  
+          message: "Although our paths didn't cross much, I’m wishing you all the very best on your new journey ahead. May your future be bright and full of success. Farewell! Fighting 💪🏽💪🏽 in Korean"  
         },
         {
           id: 3,
-          name: 'Hilda',
-          img: Hilda,
+          name: 'Rukayat',
+          img: Rukayat,
           title: 'Customer Service Rep.',
-          message: "You've been one of the best influences I have had in this phase of my life and it's been my pleasure knowing and learning from you. Because of you, I'm going to treasure some experiences I've had in Krent, thanks for being a wonderful colleague. I wish you much success in your career and all your endeavours, and that you'll stand out when accolades are being awarded and that God will grant you your passion and the best husband to share that with. All my love to you on your birthday. Enjoy"
+          message: "Saying goodbye is never easy, but I wanted to thank you for the great memories. It was a pleasure working with you, Ayomiposi. Here's to hearing great things about each other in the future. Cheers to reaching greater heights!"  
         },
         {
           id: 4,
-          name: 'Loretta',
-          img: Loretta,
-          title: 'Content Writer',
-          message: "When I first met Dami, I immediately noticed her poise. The way she carries herself? Just admirable! Then I noticed her free spirit. And in no time, we became friends. Before coworkers, we were friends first. So this is me wishing my girl a very happy birthday. Thank you for being amazing. Thank you for your genuine care. Have a beautiful day. I love youuuu!"  
+          name: 'Hilda',
+          img: Hilda,
+          title: 'Customer Service Rep.',
+          message: "Thank you for being a friend and a colleague. I wish you greater heights and bigger pursuits"
         },
         {
           id: 5,
-          name: 'Praise',
-          img: Praise,
-          title: 'Videographer',
-          message: "Dear Dami For the little time I have known you, thank you for being considerate, caring and annoying. Stop wearing the mask of I’m not a good person because even when you try to hide behind those mask, your true caring behavior comes out. In this new year, try to fall in love and stop forming hard girl I wish all the best life has to offer "  
+          name: 'Loretta',
+          img: Loretta,
+          title: 'Content Writer',
+          message: "Once, I asked Ayo how he managed to balance academics with work and all. He just smiled, as if to say 'I'm winging it' . That's how I knew he was super hardworking. That's also how I know there's a lot he'll do for himself. I'll miss your carefree self, Ayomipo, and maybe your tendency to always call me by my full name, haha. I know you'll do great, and I'm rooting for you. Cheers!"  
         },
         {
           id: 6,
-          name: 'Oladunni',
-          img: Oladunni,
-          title: 'Social Media Mgr.',
-          message: "Happy birthday, Dami. I wish you all of God's blessings. Have a blessed new year"
+          name: 'Praise',
+          img: Praise,
+          title: 'Videographer',
+          message: "Dearest gentle reader, ( sorry I meant Ayomipo 😂) Thank you for being such an important part of the team these past few months I have known you, We wouldn't have accomplished what we have now on Krent website without you. I’m going to miss seeing you around the office and having you argue with Moshood and Loretta. Wishing you all the best on your new adventure."  
         },
         {
           id: 7,
-          name: 'Adeola',
-          img: Adeola,
-          title: 'UI/UX Designer',
-          message: "Happy birthday Dami, I wish you long life with happiness and great success God bless you and the works of your hands Have a beautiful year and I hope you had a blast today!"
-        },
-        {
-          id: 8,
-          name: 'Damilola',
-          img: Damilola,
-          title: 'Graphics Designer',
-          message: "Happy Birthday, Dami! Wishing you a day filled with joy, laughter, and all the things you love most. Cheers to another fantastic year ahead!"
-        },
-        {
-          id: 9,
-          name: 'Christiana',
-          img: Christy,
-          title: 'Personal Asst.',
-          message: "Happy birthday darling Do have a beautiful and fulfilling year ahead . Cheers"
-        },
-        {
-          id: 10,
-          name: 'Ibrahim',
-          img: Ibrahim,
-          title: 'Software Engineer',
-          message: "Happy Birthday, Dami! Wishing you a wonderful day filled with joy and celebration. Your diligence and dedication at work are truly inspiring, and it's a pleasure to have you as a colleague. May you enjoy a long life filled with prosperity and happiness. Here's to many more years of success and fulfillment!"
-        },
-        {
-          id: 11,
-          name: 'NNAMDI',
-          img: Nnamdi,
-          title: 'Software Engineer',
-          message: "Happy Birthday, Damilola. Your dedication and positive attitude to work is inspiring. I wish you all the joy and success in the world. May this year bring you happiness, good health, and all the wonderful things you deserve. Have a great year."
-        },
-        {
-          id: 12,
-          name: 'Michael',
-          img: Michael,
-          title: 'Software Engineer',
-          message: "Happy birthday to an amazing colleague and an even more incredible person! Wishing you a day filled with joy and a year full of successes."
-        },
-        {
-          id: 13,
-          name: 'Ayomipo',
-          img: Ayomipo,
-          title: 'Software Engineer',
-          message: "Happy birthday to the sunshine of our office, Damilola! Wishing you a day as sparkling as your personality and filled with laughter and delicious cake!"
-        },
-        {
-          id: 14,
-          name: 'Moshood',
-          img: Moshood,
-          title: 'Project Manager',
-          message: "Happy Birthday to an amazing colleague and friend! Wishing you a day filled with love, laughter, and all of your favorite things. May this new year bring you endless joy, success, and adventures. You deserve it all my proper corporate baddie!! Cheers to another year of creating memories together! Idolo"
-        },
-        {
-          id: 15,
           name: 'Keem',
           img: Keem,
           title: 'Videographer',
-          message: "Happy birthday, Dami! May your day be as wonderful and special as you are. Your diligence and outright spirit are truly inspiring and amazing. May all your wishes be fulfilled and silent prayers be answered. Enjoy your special day!"
-        }
+          message: "Dear Ayomipo, here's to wishing you all the best in your new journey. Your presence will be missed, but I'm excited for your future and growth. Stay in touch bro. ~ Keem"
+        },
+        {
+          id: 8,
+          name: 'Oladunni',
+          img: Oladunni,
+          title: 'Social Media Mgr.',
+          message: "I wish you greater feats and the best in all your endeavours. Best of luck, Ayomipo."
+        },
+        {
+          id: 9,
+          name: 'Adeola',
+          img: Adeola,
+          title: 'UI/UX Designer',
+          message: "Hello Ayomipo! This is from Ade… I know we haven’t spent a lot of time working together but the time we spent together, I think you’re pretty cool! I wish you huge success in all your career goals, Keep growing!"
+        },
+        {
+          id: 10,
+          name: 'Damilola',
+          img: Damilola,
+          title: 'Graphics Designer',
+          message: "This is to wish you all the best in your future endeavours Ayomipo. Your contributions and impact would surely be greatly missed and I wish that your journey ahead be filled with success happiness and fulfilment .. Best wishes."
+        },
+        {
+          id: 11,
+          name: 'Christiana',
+          img: Christy,
+          title: 'Personal Asst.',
+          message: "Parting ways never comes easy. You’ll be surely missed at Krent, we will miss you. To greater heights and achievements, cheers !"
+        },
+        {
+          id: 12,
+          name: 'Ibrahim',
+          img: Ibrahim,
+          title: 'Software Engineer',
+          message: "Dear Ayomipo, It's been a pleasure working with you, and we'll truly miss your presence in the office. Your hard work and positive attitude have made a significant impact on our team. As you move on to new opportunities, I wish you all the best and great fortune in your future endeavors. May success follow you wherever you go."
+        },
+        {
+          id: 13,
+          name: 'NNAMDI',
+          img: Nnamdi,
+          title: 'Software Engineer',
+          message: "Life has different stages, and I'm sure yours is moving on to a new and exciting chapter. You're talented and skilled at your job. Your presence definitely made a significant impact on the Krent team. I wish you all the best in your future endeavors. Cheers to growth!"
+        },
+        {
+          id: 14,
+          name: 'Michael',
+          img: Michael,
+          title: 'Software Engineer',
+          message: "I wish you goodluck Ayomipo, although we never met in person, our virtual collaboration has been enjoyable over the past few weeks. Your dedication and expertise have also been invaluable to the Krent team. May your new chapter bring you growth, happiness, and success."
+        },
+        {
+          id: 15,
+          name: 'Moshood',
+          img: Moshood,
+          title: 'Project Manager',
+          message: "Best wishes to an awesome colleague and friend as you embark on a new journey! It's been a pleasure working with you 💯 May your next chapter be filled with unprecedented growth, excitement, and happiness. Stay in touch and keep shining bro!"
+        },
     ]
 
   return (
