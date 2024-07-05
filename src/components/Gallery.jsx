@@ -1,21 +1,17 @@
-import React, { useRef, useState } from 'react';
+import React from 'react';
 import { IoIosCamera } from "react-icons/io";
 import { Swiper, SwiperSlide } from 'swiper/react';
-
 import 'swiper/css';
 import 'swiper/css/effect-coverflow';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
-
 import { EffectCoverflow, Pagination, Navigation } from 'swiper/modules';
-
 import slide_image_1 from '../assets/celebrant1.PNG';
 import slide_image_2 from '../assets/celebrant2.PNG';
 import slide_image_3 from '../assets/celebrant3.PNG';
 import slide_image_4 from '../assets/celebrant4.JPG';
 import slide_image_5 from '../assets/celebrant5.jpeg';
 import slide_image_6 from '../assets/celebrant6.jpeg';
-import { GoArrowLeft, GoArrowRight } from "react-icons/go";
 
 
 
@@ -68,8 +64,8 @@ const Gallery = () => {
          <SwiperSlide>
            <img src={slide_image_2} alt="slide_image" />
          </SwiperSlide>
-         <SwiperSlide>
-           <img src={slide_image_6} alt="slide_image" />
+         <SwiperSlide className='h-full w-full'>
+           <img className='w-full' src={slide_image_6} alt="slide_image" />
          </SwiperSlide>
  
          {/*<div className="slider-controler">

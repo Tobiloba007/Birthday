@@ -10,10 +10,10 @@ import Oladunni from '../assets/oladunni.JPG'
 import Damilola from '../assets/damilola.JPG' 
 import Adeola from '../assets/adeola.JPG' 
 import Christy from '../assets/christy.JPG' 
+import Mohammed from '../assets/Mohammed.PNG' 
 import Ibrahim from '../assets/ibrahim.JPG' 
 import Nnamdi from '../assets/nnamdi.PNG' 
 import Michael from '../assets/michael.JPG' 
-import Ayomipo from '../assets/ayomipo.PNG' 
 import Moshood from '../assets/moshood.JPG' 
 import Keem from '../assets/keem.PNG' 
 
@@ -100,27 +100,34 @@ const Wishes = () => {
         },
         {
           id: 12,
+          name: 'Mohammed',
+          img: Mohammed,
+          title: 'Software Engineer',
+          message: "Dear Ayomipo, It’s been an incredible journey working with you. As the backend developer, your expertise and dedication have been crucial to our team's success. Your problem-solving skills and innovative approach have consistently impressed me and made my job as a front end developer a lot smoother. While I’m sad to see you go, I’m excited for the new opportunities that await you. I have no doubt that you’ll continue to excel and achieve great things in your next endeavor. Wishing you all the best in your future pursuits. Stay in touch."
+        },
+        {
+          id: 13,
           name: 'Ibrahim',
           img: Ibrahim,
           title: 'Software Engineer',
           message: "Dear Ayomipo, It's been a pleasure working with you, and we'll truly miss your presence in the office. Your hard work and positive attitude have made a significant impact on our team. As you move on to new opportunities, I wish you all the best and great fortune in your future endeavors. May success follow you wherever you go."
         },
         {
-          id: 13,
+          id: 14,
           name: 'NNAMDI',
           img: Nnamdi,
           title: 'Software Engineer',
           message: "Life has different stages, and I'm sure yours is moving on to a new and exciting chapter. You're talented and skilled at your job. Your presence definitely made a significant impact on the Krent team. I wish you all the best in your future endeavors. Cheers to growth!"
         },
         {
-          id: 14,
+          id: 15,
           name: 'Michael',
           img: Michael,
           title: 'Software Engineer',
           message: "I wish you goodluck Ayomipo, although we never met in person, our virtual collaboration has been enjoyable over the past few weeks. Your dedication and expertise have also been invaluable to the Krent team. May your new chapter bring you growth, happiness, and success."
         },
         {
-          id: 15,
+          id: 16,
           name: 'Moshood',
           img: Moshood,
           title: 'Project Manager',
