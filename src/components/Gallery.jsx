@@ -6,12 +6,16 @@ import 'swiper/css/effect-coverflow';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 import { EffectCoverflow, Pagination, Navigation } from 'swiper/modules';
-import slide_image_1 from '../assets/celebrant1.PNG';
-import slide_image_2 from '../assets/celebrant2.PNG';
-import slide_image_3 from '../assets/celebrant3.PNG';
+import slide_image_1 from '../assets/celebrant1.JPG';
+import slide_image_2 from '../assets/celebrant2.JPG';
+import slide_image_3 from '../assets/celebrant3.JPG';
 import slide_image_4 from '../assets/celebrant4.JPG';
-import slide_image_5 from '../assets/celebrant5.jpeg';
-import slide_image_6 from '../assets/celebrant6.jpeg';
+import slide_image_5 from '../assets/celebrant5.JPG';
+import slide_image_6 from '../assets/celebrant6.JPG';
+import slide_image_7 from '../assets/celebrant7.JPG';
+import slide_image_8 from '../assets/celebrant8.JPG';
+import slide_image_9 from '../assets/celebrant9.PNG';
+import slide_image_10 from '../assets/celebrant10.PNG';
 
 
 
@@ -65,7 +69,19 @@ const Gallery = () => {
            <img src={slide_image_2} alt="slide_image" />
          </SwiperSlide>
          <SwiperSlide className='h-full w-full'>
-           <img className='w-full' src={slide_image_6} alt="slide_image" />
+           <img src={slide_image_6} alt="slide_image" />
+         </SwiperSlide>
+         <SwiperSlide className='h-full w-full'>
+           <img src={slide_image_7} alt="slide_image" />
+         </SwiperSlide>
+         <SwiperSlide className='h-full w-full'>
+           <img src={slide_image_8} alt="slide_image" />
+         </SwiperSlide>
+         <SwiperSlide className='h-full w-full'>
+           <img src={slide_image_9} alt="slide_image" />
+         </SwiperSlide>
+         <SwiperSlide className='h-full w-full'>
+           <img src={slide_image_10} alt="slide_image" />
          </SwiperSlide>
  
          {/*<div className="slider-controler">

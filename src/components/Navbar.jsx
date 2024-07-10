@@ -29,7 +29,7 @@ const Navbar = () => {
                src={logo} alt="logo" />*/}
                <div className='container'>
                   <p className='scrolling-text flex items-center justify-start w-full text-[#C4C4C4] ml-2 text-[10px] z-20 font-semibold tracking-widest'>
-                     FAREWELL AYOMIPO    
+                     HAPPY BIRTHDAY    
                      <BsBalloonFill className='ml-2 text-lg' />
                   </p>
                </div>
