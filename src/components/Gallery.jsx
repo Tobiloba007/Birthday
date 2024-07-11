@@ -16,6 +16,9 @@ import slide_image_7 from '../assets/celebrant7.JPG';
 import slide_image_8 from '../assets/celebrant8.JPG';
 import slide_image_9 from '../assets/celebrant9.PNG';
 import slide_image_10 from '../assets/celebrant10.PNG';
+import slide_image_11 from '../assets/celebrant11.JPG';
+import slide_image_12 from '../assets/celebrant12.JPG';
+import slide_image_13 from '../assets/celebrant13.JPG';
 
 
 
@@ -82,6 +85,15 @@ const Gallery = () => {
          </SwiperSlide>
          <SwiperSlide className='h-full w-full'>
            <img src={slide_image_10} alt="slide_image" />
+         </SwiperSlide>
+         <SwiperSlide className='h-full w-full'>
+           <img src={slide_image_11} alt="slide_image" />
+         </SwiperSlide>
+         <SwiperSlide className='h-full w-full'>
+           <img src={slide_image_12} alt="slide_image" />
+         </SwiperSlide>
+         <SwiperSlide className='h-full w-full'>
+           <img src={slide_image_13} alt="slide_image" />
          </SwiperSlide>
  
          {/*<div className="slider-controler">
