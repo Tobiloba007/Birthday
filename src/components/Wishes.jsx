@@ -27,77 +27,126 @@ const Wishes = () => {
           name: 'Michelle Akinmade',
           img: HR,
           title: 'Human Resource Manager',
-          message: "Happy birthday to my beautiful selfless lady. It's been a beautiful journey watching you grow as a woman 💕 I admire how you put yourself together in difficult times. I wish you a year filled with so much love, blessings and a good husband 😘 Have a good bday 🎈🎂 "
+          message: `Happy birthday to an amazing writer, young and purposeful ❤️. Keep being an amazing person , I admire your dedication and commitment in what you do. 
+I’m wishing you a fulfilling year, continue to grow in wisdom and knowledge. Cheers 🥂`
         },
         {
           id: 2,
           name: 'Damilola',
           img: DamiCSR,
           title: 'Customer Service Rep.',
-          message: "Heyyyy Rukks, Happy Birthday to you 🥳🥳 Thank you for being part of a fulfilling journey at Krent. We’ve all certainly had a few share of ups and downs but I wouldn’t have had it any other way. Thank you for being a wonderful and beautiful person even if you tend to be extremely personal and sensitive about everything. It’s your day today and I’m wishing only the very best that life has to offer you. Hip Hip Hip….hurrayyyyyyyy💖💖"  
+          message: `It is world Olohita’s day💖💖  
+           A Queen was born innit😂😂😂  I mean, it is the birth of the most beautiful diamond of the season, the one with the vibrant and  intelligent soul.
+            It is no news how your intellectual mind captivates me. I love how easy you  articulate your thoughts, how you try to make me smile on days that 
+            I don’t feel like it…..I won’t  be saying much here *for a better version awaits in your mailbox* which you might likely see  before you see this one.
+             Happy birthday baby girl🫂🫂`
         },
-        // {
-        //   id: 3,
-        //   name: 'Rukayat',
-        //   img: Rukayat,
-        //   title: 'Customer Service Rep.',
-        //   message: ""  
-        // },
+        {
+          id: 3,
+          name: 'Rukayat',
+          img: Rukayat,
+          title: 'Customer Service Rep.',
+          message: `Happy birthday Lohi! I wish you all the very best in all your endeavors. 🎂🥂`  
+        },
         {
           id: 4,
           name: 'Hilda',
           img: Hilda,
           title: 'Customer Service Rep.',
-          message: "Rukayat, I remember that what helped me adjust when I started Krent is the warm and friendly reception from Ruky that never wavered. Everyday I looked forward to her presence in the office; things are never dull with her around (unless she picks offence). I want to celebrate the sensitive and beautiful soul you are and you might always need reminding that we love you for the free spirit you are and don't want you to change even one aspect, I mean it! Happy birthday sweet sister and I pray for Allah's good rewards for you."
+          message: `To the queen of jabs and piercing sarcasm.
+Happy birthday Lohi, have a wonderful celebration`
         },
-        {
-          id: 5,
-          name: 'Loretta',
-          img: Loretta,
-          title: 'Content Writer',
-          message: "Happy birthday, Ruky! I wish you a very beautiful new year. I pray that you're always happy! All the best ❤️"  
-        },
+        // {
+        //   id: 5,
+        //   name: 'Loretta',
+        //   img: Loretta,
+        //   title: 'Content Writer',
+        //   message: "Happy birthday, Ruky! I wish you a very beautiful new year. I pray that you're always happy! All the best ❤️"  
+        // },
         {
           id: 6,
           name: 'Praise',
           img: Praise,
           title: 'Videographer',
-          message: "My pumpkin pie ❤️ Happy birthday boo 🤭 Thank you for you’re such an amazing soul. I wish you all the best life has to offer. I love that you are a genuine person. Keep shining your light baby because it warms people hearts ❤️"  
+          message: `Happy birthday Efiko
+❤️🤲🏽
+God’s blessings is upon you 
+Keep excelling in God’s greatness.
+Pls be flexible this year 
+🤲🏽
+Go out enjoy what you save for( in Ayra star’s mom voice).` 
         },
         {
           id: 7,
           name: 'Keem',
           img: Keem,
           title: 'Videographer',
-          message: "Happy birthday Abisola,🎊🎉 May your life be filled with good health, wealth, happiness, and God's abundant blessings. May all your dreams come true this new year of yours. You're one of the kindest and most understanding people I know, and I'm grateful to call you my friend🤗🥰. I know you feel overwhelmed and confused sometimes, but that's how life is, we just need to follow the process. Allah already assured us in Quran 93:4, 'And verily the Hereafter will be better for thee than the present.' You just need to take care of yourself amidst all the challenges. You're achieving so much in your 20s already and need to prioritize your happiness and wellbeing over every other thing. May this year bring you boundless joy and success. Here's to aging gracefully baby girl🤗🥰❤️"
+          message: `Happy birthday, my baby girl 
+🤗🥰
+I wish you all the very best life has to offer. I cherish and love how beautifully you've built 
+yourself into a young, confident woman. Even when faced with the unknown, you're never afraid 
+to ask or try it out. You've got a brilliant and great future ahead, and I pray that success finds you 
+in everything you do. 
+May your days be as beautiful and warm as your smile that lights up every room 
+😍
+. May all your 
+heart desires be granted in this new year of yours.
+Age gracefully, baby girl🤗🥰`
         },
         {
           id: 8,
           name: 'Oladunni',
           img: Oladunni,
           title: 'Social Media Mgr.',
-          message: "Happy birthday, baby girl.❤️  I wish you a long life in good health and sound mind. I really love that you're bubbly and you light up wherever you are with your beautiful smile. May you continuously enjoy boundless joy. I pray the things which you so much desire will be granted. Have a prosperous new year, Rukayat! It's already your year of soaring.✨  Cheers to a new year 🥂"
+          message: `Happy birthday, dear Lorenta
+❤️
+The adorable and funny content writer. I like that you're passionate about your work, diligent, and 
+even more so, excellent at it.
+I pray that you continue to excel in all that you do.
+Lines fall in pleasant places for you.
+You would often see Lorenta widely shining her 32
+😁
+ and I pray that your joy will not cease.
+Wishing you a long life in good health and sound mind.
+Love you, baby girl, and I'm always rooting for you!
+🥂
+Have an absolutely fantastic new year🎊🚀`
         },
         {
           id: 9,
           name: 'Adeola',
           img: Adeola,
           title: 'UI/UX Designer',
-          message: "Happy birthday Rukayat! I wish you long life and prosperity. I pray that God blesses you this new year. Have a beautiful year"
+          message: `Happy birthday Lorenta 
+You’re such a sweet person. I pray that good gives you the answers to all your prayers. I pray you 
+have a beautiful year just as you are, have a blast love!`
         },
         {
           id: 10,
           name: 'Damilola',
           img: Damilola,
           title: 'Graphics Designer',
-          message: "Happy Birthday to you Rukayat, Many happy returns of the day., May your special day be filled with joy, laughter, and everything you love. Here's to another year, of success, happiness, and making wonderful memories. Enjoy every moment!"
+          message: `Lorenta!
+Happy Birthday to you.
+And just when I was getting to connect with y'all, you guys are leaving.
+I wish you all the very best.
+Thank you for being a good, passionate and considerate person.
+I hope we are able to get to work together sometimes in the future.
+Until then, have a beautiful and fun filled day🎉🎉`
         },
         {
           id: 11,
           name: 'Christiana',
           img: Christy,
           title: 'Personal Asst.',
-          message: "Happy birthday sweetie 🍰🎈 May blessings rain on you. I pray all the amazing things you’re planning click for you . Cheers 🥂 to a year of fulfillment "
+          message: `Happy birthday sweetie 
+🍰🎈
+ a sweet personality. Ready to learn, eager to help and always 
+giving your best. I love how we bond and how amazing of a colleague and friend you are. Your 
+dedication towards your writing is so admirable and inspiring , I’ll sure recommend you anywhere, 
+anyday and anytime. Cheers 
+🥂
+ to achieving more`
         },
         // {
         //   id: 12,
@@ -111,35 +160,56 @@ const Wishes = () => {
           name: 'Ibrahim',
           img: Ibrahim,
           title: 'Software Engineer',
-          message: "Happy birthday, Rukayat! You are an amazing young lady with a vibrant and lively nature. I wish you many more fulfilling years ahead. 🎂🍾🎉"
+          message: `Happy birthday, Lorenta! You’re an inspiring and hardworking young lady, and the world is about 
+to witness your positive impact. Wishing you many more years of prosperity and joy ahead.`
         },
         {
           id: 14,
           name: 'NNAMDI',
           img: Nnamdi,
           title: 'Software Engineer',
-          message: "Happy birthday Rukayat. I wish you more of God's blessings. Have a great year."
+          message: `Happy birthday Lorenta, I wish you the best things in life. I pray this new year is the best one yet, 
+and God perfects his work in your life. Keep being the shining star you are and I wish you the 
+very best🥳🎉🎉`
         },
         {
           id: 15,
           name: 'Michael',
           img: Michael,
           title: 'Software Engineer',
-          message: "Happy birthday Rukayat, Wishing you a day filled with joy, love, and laughter. May your year ahead be blessed with success, happiness, and fulfillment."
+          message: `Happy birthday 🎂 to an amazing content writer and colleague, On your special day and as you 
+move on to new adventures, we celebrate the incredible stories you've helped tell and the voice 
+you've brought to Krent.inc. We'll miss you around here, but we're excited to see where life 
+takes you next. Cheers to new beginnings 🍾🥂`
         },
         {
           id: 17,
           name: 'Folahanmi',
           img: Fola,
           title: 'Software Engineer',
-          message: "Happy Birthday! Wishing you a wonderful day and a year filled with success and happiness. I'm looking forward to working with you."
+          message: `Happy birthday Loretta, wish a wonderful year ahead and as you begin this new phase of life may 
+God make it delightful for you.`
         },
         {
           id: 16,
           name: 'Moshood',
           img: Moshood,
           title: 'Project Manager',
-          message: "Happy birthday to an amazing colleague! Wishing you a day filled with joy, love, and all your favorite things. May this new year bring you endless blessings and opportunities. Cheers to another year of shining! 🎉🎂"
+          message: `Lorentaaaaaaaa!!!!!!!!
+Happy birthday to my NYSC camp buddy, my OBS partner in crime, and my favorite writing 
+machine!
+You're not only an amazing writer, but also a super talented, incredibly intelligent, and 
+ridiculously creative human being (don't @ me, it's true).
+From those crazy catering SAED days of nothingness 
+💀😂
+ to our wholesome Morgen Green 
+voyage, you've been my idolo, my confidante, and my partner in shenanigans.
+Here's to many more years of creating magic together, pushing each other to greatness, and 
+making memories that'll last a lifetime.
+May your day be as bright as your smile, as colorful as your personality, and as fabulous as your 
+writing skills.
+Cheers to another year of slaying the game, my idoloooooo!
+Your steeze and composure no go quench In Shaa Allah !!!`
         },
     ]
 

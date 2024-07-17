@@ -1,9 +1,6 @@
 import { useState } from 'react'
-// import logo from '../assets/logo.png'
-import { CiMenuFries } from 'react-icons/ci'
 import { TfiClose } from 'react-icons/tfi'
 import { motion } from 'framer-motion'
-import { GiCupcake } from "react-icons/gi";
 import { BsCake2Fill } from "react-icons/bs";
 import { BsBalloonFill } from "react-icons/bs";
 

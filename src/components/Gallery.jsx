@@ -14,11 +14,16 @@ import slide_image_5 from '../assets/celebrant5.JPG';
 import slide_image_6 from '../assets/celebrant6.JPG';
 import slide_image_7 from '../assets/celebrant7.JPG';
 import slide_image_8 from '../assets/celebrant8.JPG';
-import slide_image_9 from '../assets/celebrant9.PNG';
-import slide_image_10 from '../assets/celebrant10.PNG';
+import slide_image_9 from '../assets/celebrant9.JPG';
+import slide_image_10 from '../assets/celebrant10.JPG';
 import slide_image_11 from '../assets/celebrant11.JPG';
 import slide_image_12 from '../assets/celebrant12.JPG';
 import slide_image_13 from '../assets/celebrant13.JPG';
+import slide_image_14 from '../assets/celebrant14.JPG';
+import slide_image_15 from '../assets/celebrant15.JPG';
+import slide_image_16 from '../assets/celebrant16.JPG';
+import slide_image_17 from '../assets/celebrant17.PNG';
+import slide_image_18 from '../assets/celebrant18.JPG';
 
 
 
@@ -60,10 +65,10 @@ const Gallery = () => {
            <img src={slide_image_3} alt="slide_image" />
          </SwiperSlide>
          <SwiperSlide>
-           <img src={slide_image_1} alt="slide_image" />
+           <img src={slide_image_4} alt="slide_image" />
          </SwiperSlide>
          <SwiperSlide>
-           <img src={slide_image_4} alt="slide_image" />
+           <img src={slide_image_1} alt="slide_image" />
          </SwiperSlide>
          <SwiperSlide>
            <img src={slide_image_5} alt="slide_image" />
@@ -94,6 +99,21 @@ const Gallery = () => {
          </SwiperSlide>
          <SwiperSlide className='h-full w-full'>
            <img src={slide_image_13} alt="slide_image" />
+         </SwiperSlide>
+         <SwiperSlide className='h-full w-full'>
+           <img src={slide_image_14} alt="slide_image" />
+         </SwiperSlide>
+         <SwiperSlide className='h-full w-full'>
+           <img src={slide_image_15} alt="slide_image" />
+         </SwiperSlide>
+         <SwiperSlide className='h-full w-full'>
+           <img src={slide_image_16} alt="slide_image" />
+         </SwiperSlide>
+         <SwiperSlide className='h-full w-full'>
+           <img src={slide_image_17} alt="slide_image" />
+         </SwiperSlide>
+         <SwiperSlide className='h-full w-full'>
+           <img src={slide_image_18} alt="slide_image" />
          </SwiperSlide>
  
          {/*<div className="slider-controler">
