@@ -11,7 +11,7 @@ import Christy from '../assets/christy.JPG'
 import Ibrahim from '../assets/ibrahim.JPG' 
 import Nnamdi from '../assets/nnamdi.PNG' 
 import Michael from '../assets/michael.JPG' 
-// import Fola from '../assets/fola.PNG' 
+import Fola from '../assets/fola.PNG' 
 import keem from '../assets/keem.PNG'
 import blessing from '../assets/blessing.JPG'
 import ebenezer from '../assets/ebenezer.JPG'
@@ -115,7 +115,7 @@ Have a beautiful new year, Sis!❤️
           name: 'Keem',
           img: keem,
           title: 'Videographer',
-          message: `It’s Adeola’s birthday 🎉 on the 1st. Please send me your wishes for her`
+          message: `Happy birthday Adeola, wishing you the best life has to offer.🎊🥳`
         },
         {
           id: 11,
@@ -191,14 +191,13 @@ I wish you a fulfilling and joyous birthday celebration. You bring energy and pa
 I wish you all the joy, happiness, and success the world has to offer. May this special day bring you love, laughter, and a year filled with prosperity.
 `
         },
-//         {
-//           id: 18,
-//           name: 'Folahanmi',
-//           img: Fola,
-//           title: 'Software Engineer',
-//           message: `Happy birthday Loretta, wish a wonderful year ahead and as you begin this new phase of life may 
-// God make it delightful for you.`
-//         },
+        {
+          id: 18,
+          name: 'Folahanmi',
+          img: Fola,
+          title: 'Software Engineer',
+          message: `Happy birthday Adeola 🎉🎉, as you have made beautiful designs, may God make your life beautiful and bless you all round. 🥂`
+        },
         {
           id: 19,
           name: 'Foluke',
