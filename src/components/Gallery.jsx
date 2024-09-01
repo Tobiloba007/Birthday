@@ -6,24 +6,24 @@ import 'swiper/css/effect-coverflow';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 import { EffectCoverflow, Pagination, Navigation } from 'swiper/modules';
-import slide_image_1 from '../assets/celebrant1.JPG';
-import slide_image_2 from '../assets/celebrant2.JPG';
-import slide_image_3 from '../assets/celebrant3.JPG';
-import slide_image_4 from '../assets/celebrant4.JPG';
-import slide_image_5 from '../assets/celebrant5.JPG';
-import slide_image_6 from '../assets/celebrant6.JPG';
-import slide_image_7 from '../assets/celebrant7.JPG';
-import slide_image_8 from '../assets/celebrant8.JPG';
-import slide_image_9 from '../assets/celebrant9.JPG';
-import slide_image_10 from '../assets/celebrant10.JPG';
-import slide_image_11 from '../assets/celebrant11.JPG';
-import slide_image_12 from '../assets/celebrant12.JPG';
-import slide_image_13 from '../assets/celebrant13.JPG';
-import slide_image_14 from '../assets/celebrant14.JPG';
-import slide_image_15 from '../assets/celebrant15.JPG';
-import slide_image_16 from '../assets/celebrant16.JPG';
-import slide_image_17 from '../assets/celebrant17.PNG';
-import slide_image_18 from '../assets/celebrant18.JPG';
+import slide_image_1 from '../assets/adeola1.JPG';
+import slide_image_2 from '../assets/adeola1.JPG';
+import slide_image_3 from '../assets/adeola1.JPG';
+// import slide_image_4 from '../assets/celebrant4.JPG';
+// import slide_image_5 from '../assets/celebrant5.JPG';
+// import slide_image_6 from '../assets/celebrant6.JPG';
+// import slide_image_7 from '../assets/celebrant7.JPG';
+// import slide_image_8 from '../assets/celebrant8.JPG';
+// import slide_image_9 from '../assets/celebrant9.JPG';
+// import slide_image_10 from '../assets/celebrant10.JPG';
+// import slide_image_11 from '../assets/celebrant11.JPG';
+// import slide_image_12 from '../assets/celebrant12.JPG';
+// import slide_image_13 from '../assets/celebrant13.JPG';
+// import slide_image_14 from '../assets/celebrant14.JPG';
+// import slide_image_15 from '../assets/celebrant15.JPG';
+// import slide_image_16 from '../assets/celebrant16.JPG';
+// import slide_image_17 from '../assets/celebrant17.PNG';
+// import slide_image_18 from '../assets/celebrant18.JPG';
 
 
 
@@ -65,12 +65,21 @@ const Gallery = () => {
            <img src={slide_image_3} alt="slide_image" />
          </SwiperSlide>
          <SwiperSlide>
-           <img src={slide_image_4} alt="slide_image" />
+           <img src={slide_image_3} alt="slide_image" />
          </SwiperSlide>
          <SwiperSlide>
-           <img src={slide_image_1} alt="slide_image" />
+           <img src={slide_image_3} alt="slide_image" />
          </SwiperSlide>
          <SwiperSlide>
+           <img src={slide_image_3} alt="slide_image" />
+         </SwiperSlide>
+         <SwiperSlide>
+           <img src={slide_image_3} alt="slide_image" />
+         </SwiperSlide>
+         <SwiperSlide>
+           <img src={slide_image_3} alt="slide_image" />
+         </SwiperSlide>
+         {/* <SwiperSlide>
            <img src={slide_image_5} alt="slide_image" />
          </SwiperSlide>
          <SwiperSlide>
@@ -114,7 +123,7 @@ const Gallery = () => {
          </SwiperSlide>
          <SwiperSlide className='h-full w-full'>
            <img src={slide_image_18} alt="slide_image" />
-         </SwiperSlide>
+         </SwiperSlide> */}
  
          {/*<div className="slider-controler">
            <div className="swiper-button-prev slider-arrow">
