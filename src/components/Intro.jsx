@@ -1,4 +1,3 @@
-import { BiSolidRightArrow } from 'react-icons/bi'
 import { motion } from 'framer-motion'
 import imageUrlBuilder from '@sanity/image-url';
 import sanityClient from '../../src/sanityClient'

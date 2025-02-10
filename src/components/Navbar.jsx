@@ -7,7 +7,6 @@ import { BsBalloonFill } from "react-icons/bs";
 
 
 
-
 const Navbar = () => {
     const [drawer, setDrawer] = useState(false)
 
