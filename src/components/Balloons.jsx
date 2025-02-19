@@ -9,11 +9,11 @@ const Balloons = () => {
 
   useEffect(() => {
     const createBalloons = () => {
-      for (let i = 0; i < 15; i++) {
+      for (let i = 0; i < 25; i++) {
         const balloon = {
           id: i,
           x: Math.random() * window.innerWidth,
-          y: -175,
+          y: -200,
           color: i % 2 === 0 ? '#6FC400' : '#FFFFFF',
           size: Math.random() * 125 + 60,
           speed: Math.random() * 7 + 2,
