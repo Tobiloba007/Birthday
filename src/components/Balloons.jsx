@@ -9,7 +9,7 @@ const Balloons = () => {
 
   useEffect(() => {
     const createBalloons = () => {
-      for (let i = 0; i < 10; i++) {
+      for (let i = 0; i < 15; i++) {
         const balloon = {
           id: i,
           x: Math.random() * window.innerWidth,
@@ -51,7 +51,7 @@ const Balloons = () => {
       );
     };
 
-    const intervalId = setInterval(updateBalloons, 20);
+    const intervalId = setInterval(updateBalloons, 50);
     return () => clearInterval(intervalId);
   }, [time, balloons]);
 
