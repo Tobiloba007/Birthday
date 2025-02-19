@@ -7,6 +7,7 @@ import Gallery from "./components/Gallery";
 import Wishes from "./components/Wishes";
 import Footer from "./components/Footer";
 import sanityClient from './sanityClient';
+import Balloons from "./components/Balloons";
 
 function App() {
    const [images, setImages] = useState([]);
@@ -71,6 +72,8 @@ function App() {
            </div>
            <Footer data={others} />
        </Home>
+
+       <Balloons />
     </div>
   );
 }
